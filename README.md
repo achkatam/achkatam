@@ -16,7 +16,7 @@ Dedicated to learning **tech** and **motorcycling** :motorcycle:.
 
 More contacts:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/achkatam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/achkatam)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/achkatam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/achkatam)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'> [<img src='https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011-2019.png' atl='linkedinlogo' height="40">](https://www.linkedin.com/in/angel-matev-8b68a8243/)
 
 Discord ID: 819569451640291358
 
