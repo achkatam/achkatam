@@ -18,10 +18,10 @@ More contacts:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/achkatam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/achkatam)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>
 
-Discord ID: 819569451640291358  
+Discord ID: 819569451640291358
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-Discord ID: 819569451640291358
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achkatam)](https://github.com/anuraghazra/github-readme-stats)
 
