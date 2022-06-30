@@ -1,6 +1,6 @@
 ![Masterboard](https://image.jimcdn.com/app/cms/image/transf/none/path/sc450581ea0a9abd9/backgroundarea/i4e8c91778c3d459c/version/1489131194/image.gif)
 # Hi there 👋, my name is **Angel Matev**
-I am student at [<img src='https://softuni.bg/content/images/svg-logos/software-university-logo.svg' alt='softuni' height='40'>](https://softuni.bg/)
+I am student at [<img src='https://softuni.bg/content/images/svg-logos/software-university-logo.svg' alt='softuni' height='40'>](https://softuni.org/blog/what-is-softuni/)
 
 Born and raised in *Bulgaria* :bulgaria: but live in the *United States* :us:
 Dedicated to learning **tech** and **motorcycling** :motorcycle:.
