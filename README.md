@@ -10,7 +10,7 @@ Dedicated to learning **tech** and **motorcycling** :motorcycle:.
 - 🔭 I’m currently working on gaining more and more **programming** and **coding** skills 
 - 🌱 I’m currently learning **Programming Fundalmentals C#** 
 - 📫 How to reach me: *agmatevv@gmail.com*
-- :mortar_board: If you would like to check my **succeedes** and see my **certificates**  you can click or scan that QR code: [<img src='https://softuni.bg/Files/Certificates/214/124121.jpeg' alt='theqr' height="60">](https://softuni.bg/certificates/details/124121/8a73dce2)
+-:mortar_board: If you would like to check my [!certificates](https://github.com/achkatam/achkatam/blob/main/certificates.md)
 
 -:keyboard: To check my source codes click on the GitHub logo.
 
