@@ -10,9 +10,8 @@ Dedicated to learning **tech** and **motorcycling** :motorcycle:.
 - 🔭 I’m currently working on gaining more and more **programming** and **coding** skills 
 - 🌱 I’m currently learning **Programming Fundalmentals C#** 
 - 📫 How to reach me: *agmatevv@gmail.com*
--:mortar_board: If you would like to check my [certificates](https://github.com/achkatam/achkatam/blob/main/certificates.md) click on the link, please.
-
--:keyboard: To check my source codes click on the GitHub logo.
+- :mortar_board: If you would like to check my [certificates](https://github.com/achkatam/achkatam/blob/main/certificates.md) click on the link, please.
+- :keyboard: To check my source codes click on the GitHub logo.
 
 More contacts:
 
