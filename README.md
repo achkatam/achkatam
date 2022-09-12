@@ -8,7 +8,7 @@ Dedicated to learning **tech** and **motorcycling** :motorcycle:.
 **Coding skills**: <img src='https://ih0.redbubble.net/image.416412087.0587/pp,550x550.jpg' alt='csharp' height='40'>  <img src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' alt='html5' height='40'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' atl='css' height="40"> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg' alt='netcore' height="40">
 
 - 🔭 I’m currently working on gaining more and more **programming** and **coding** skills 
-- 🌱 I’m currently learning **Programming Fundalmentals C#** 
+- 🌱 I’m currently learning **C# Advanced** 
 - 📫 How to reach me: *agmatevv@gmail.com*
 - :mortar_board: If you would like to check out my [certificates](https://github.com/achkatam/achkatam/blob/main/certificates.md) click on the link, please.
 - :keyboard: To check my source codes click on the GitHub logo.
