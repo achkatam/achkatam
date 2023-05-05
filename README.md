@@ -5,10 +5,9 @@ I am student at [<img src='https://softuni.bg/content/images/svg-logos/software-
 Born and raised in *Bulgaria* :bulgaria: but live in the *United States* :us:.
 Dedicated to learning **tech** and **motorcycling** :motorcycle:.
 
-**Coding skills**: <img src='https://ih0.redbubble.net/image.416412087.0587/pp,550x550.jpg' alt='csharp' height='40'>  <img src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' alt='html5' height='40'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' atl='css' height="40"> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg' alt='netcore' height="40">
+**Coding skills**: <img src='https://ih0.redbubble.net/image.416412087.0587/pp,550x550.jpg' alt='csharp' height='40'>  <img src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' alt='html5' height='40'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' atl='css' height="40"> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg' alt='netcore' height="40"> <img src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg' alt='typeScript' height="40"> <img src='https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg' alt='angular' height="40"> 
 
-- 🔭 I’m currently working on gaining more and more **programming** and **coding** skills 
-- 🌱 I’m currently studying **MSSQL Databases** 
+- 🔭 I’m currently working on gaining more and more **programming** and **coding** skills
 - 📫 How to reach me: *agmatevv@gmail.com*
 - :mortar_board: If you would like to check out my [certificates](https://github.com/achkatam/achkatam/blob/main/certificates.md) click on the link, please.
 - :keyboard: To check my source codes click on the GitHub logo.
